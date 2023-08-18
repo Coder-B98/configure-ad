@@ -93,19 +93,35 @@ Click on the flag in server manager and then promote to Domain controller. This 
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/M9ivErk.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once you've logged back into the Domaain Controllwer click on tools and then scroll to Active Directory and Users and then right click on your domain click new and create three organizational units: _EMPLOYEES, _ADMINS, _CLIENTS.
 </p>
 <br />
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pmsijdP.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to the admin organizational unit you created and creat a new user by right clicking and going to new and then user and make sure to set the password to never expire. Use this account for the rest of the demonstration.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/QJnNczQ.png"/>
+</p>
+Right click on the user you created and then properties and then member of to add the user to Domain Users.
+<p>
+</p>
+<br />
+
+<p>
+<img src=""/>
+</p>
+<p>
+  xxxx
 </p>
 <br />
 
