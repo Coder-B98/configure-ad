@@ -45,15 +45,15 @@ Create two virtual machines in Azure; One with Windows server and the other runn
 <img src="https://i.imgur.com/xNnthv2.png"/>
 </p>
 <p>
-The virtual machine with Windows server installed 
+The virtual machine with Windows server installed will be the Domain Controller and is called DC-1 in this example. From the virtual machine page go to networking and then click the text next to network interface to continue with the demonstration.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/i9Tk1uA.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+From the network interface page click on ip configurations and then ipconfig1 to set the ip to static.
 </p>
 <br />
 
