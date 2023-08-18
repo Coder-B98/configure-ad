@@ -58,15 +58,6 @@ From the network interface page click on ip configurations and then ipconfig1 to
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-
-<p>
 <img src="https://i.imgur.com/UquyD5f.png"/>
 </p>
 <p>
@@ -93,10 +84,10 @@ Click next until you get to this window and make sure to install Active Director
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Qf6W9N5.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Click on the flag in server manager and then promote to Domain controller. This will open this window click on add new forest and name your domain. You will have to set a password but we will not use it for this demonstration. This installation will require the VM to restart login in using yourdomain.com a '\' and then the username you made for the VM.
 </p>
 <br />
 
