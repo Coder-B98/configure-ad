@@ -118,10 +118,21 @@ Right click on the user you created and then properties and then member of to ad
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/8vzJHrK.png"/>
 </p>
 <p>
-  xxxx
+Go to the virtual machine that will be the client's network interface and then click on DNS Servers to set the DNS server to the private IP address of the Domain Controller.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/We5DxP7.png"/>
+</p>
+<p>
+Once you've done this restart the client and log back into it. Right click on the windows icon and click system and then rename the PC advanced to change the domain. Once you type in your domain use your admin login to join the client to the domain which will iniiate another restart.
+</p>
+<br />
+
+
+
 
