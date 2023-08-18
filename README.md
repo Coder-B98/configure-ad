@@ -133,6 +133,27 @@ Once you've done this restart the client and log back into it. Right click on th
 </p>
 <br />
 
+<p>
+<img src="https://i.imgur.com/0t5hCJs.png"/>
+</p>
+<p>
+Login into the client with your admin account and go to the system settings and go to remoter desktop and the select users who can access this PC and add Domain Users to allow non-admin accounts to use remote desktop.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/Am790Vu.png"/>
+</p>
+<p>
+<a href="https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1
+">Use this link</a> to copy a raw script and then open windows power shell ISE as an administrator from the Domain Controller. Click on file then new and then paste script and then click the green play button on top to run the script. This script requires you to have an OU named _EMPLOYEES. This will generate a numerous amount of accounts with the same password: password1. Use one of these accounts to login into your client to conclude the demonstration. 
+</p>
+<br />
+
+
+
+
+
 
 
 
